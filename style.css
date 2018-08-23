@@ -4,12 +4,24 @@
     box-sizing: border-box;
     border: 1px solid gray;
     float: left;
+    font-size: 50px;
 }
 
-#box1 {
+/* #box1 {
     font-size: 50px;
 }
 #box2 {
+    font-size: 50px;
 }
 #box3 {
+    font-size: 50px;
 }
+#box4 {
+    font-size: 50px;
+}
+#box5 {
+    font-size: 50px;
+}
+#box6 {
+    font-size: 50px;
+} */
