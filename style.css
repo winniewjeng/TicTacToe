@@ -2,9 +2,17 @@
     height: 30vh;
     width: 30vw;
     box-sizing: border-box;
-    border: 1px solid gray;
+    border: 5px solid silver;
     float: left;
     font-size: 50px;
+    text-align: center;
+    padding-top: 90px;
+    font-family: 'Lobster Two', cursive;
+}
+
+.padBoard {
+    padding-top: 30px;
+    padding-left: 40px;
 }
 
 /* #box1 {
