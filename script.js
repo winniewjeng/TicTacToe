@@ -20,7 +20,7 @@ function clicked(row, col) {
             gameBoard[row][col] = 'X';
         }
         if (checkWin() || checkBoardFull()) {
-            document.getElementById('gameOn').onafterprint = 'Game Over!';
+            // document.getElementById('gameOn').onafterprint = 'Game Over!';
         }
     }
 }
